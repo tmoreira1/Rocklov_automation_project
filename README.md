@@ -2,17 +2,14 @@
  
 ## Rocklov_automation_project
  
-... Automation project Web and Api of the site Rock Love, Rock Love is a site for the rental of musical equipment developed by the company QA ninja papa to carry out automated testing training.
+Automation project Web and Api of the site Rock Love, Rock Love is a site for the rental of musical equipment developed by the company QA ninja papa to carry out automated testing training.
  
  
 ## Technology 
  
 Here are the technologies used in this project.
  
-* Ruby version  x.x.x
-* Rails version x.x.x
-* ...
- 
+* Ruby version  2.3.6 
  
 ## Services Used
  
@@ -21,7 +18,15 @@ Here are the technologies used in this project.
  
  
 ## Ruby Gems
-...
+
+* cucumber version 5.2
+* capybara 3.33
+* rspec 3.10
+* faker 2.14
+* mongo 2.13.1
+* allure-cucumber 2.13.6.4
+* webdrivers 4.0
+* selenium-webdriver 3.142.7
  
 ## Getting started
  
