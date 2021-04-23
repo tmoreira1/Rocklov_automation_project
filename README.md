@@ -2,7 +2,7 @@
  
 ## Rocklov_automation_project
  
-Automation project Web and Api of the site Rock Love, Rock Love is a site for the rental of musical equipment developed by the company QA ninja papa to carry out automated testing training.
+Automation project Web and Api of the site Rock Love, Rock Love is a site for the rental of musical equipment developed by the company QA ninja for to carry out automated testing training.
  
  
 ## Technology 
