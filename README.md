@@ -1,8 +1,8 @@
 ![Logo of the project](https://github.com/tmoreira1/Rocklov_testes-automatizados_web/blob/e81c5d6ab1d65fc20d65bbced38206190ad013ae/favicon.ico)
  
-## Name_of_the_project
+## Rocklov_automation_project
  
-... Description
+... Automation project Web and Api of the site Rock Love, Rock Love is a site for the rental of musical equipment developed by the company QA ninja papa to carry out automated testing training.
  
  
 ## Technology 
