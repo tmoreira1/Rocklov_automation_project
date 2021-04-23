@@ -34,8 +34,8 @@ Here are the technologies used in this project.
  
 ## How to use
 
-![login screen] (https://github.com/tmoreira1/Rocklov_testes-automatizados_web/blob/f4b62a7d40feca70c01576ddeace743ee9c993ba/sc1.png)
-[user registration screen] (https://github.com/tmoreira1/Rocklov_testes-automatizados_web/blob/efa9fb76047537207d4eb23e363d5342756a49bd/sc3.png)!
+[login screen](https://github.com/tmoreira1/Rocklov_testes-automatizados_web/blob/f4b62a7d40feca70c01576ddeace743ee9c993ba/sc1.png)
+[user registration screen](https://github.com/tmoreira1/Rocklov_testes-automatizados_web/blob/efa9fb76047537207d4eb23e363d5342756a49bd/sc3.png)
  
  
 ## Features
