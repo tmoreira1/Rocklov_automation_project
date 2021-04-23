@@ -1,4 +1,4 @@
-![Logo of the project](http://logo_link)
+![Logo of the project](https://github.com/tmoreira1/Rocklov_testes-automatizados_web/blob/e81c5d6ab1d65fc20d65bbced38206190ad013ae/favicon.ico)
  
 ## Name_of_the_project
  
