@@ -1,0 +1,35 @@
+---
+- title: senha incorreta
+  payload:
+    email: tcm1@gmail.com
+    password: '123456'
+  code: 401
+  error: Unauthorized
+- title: usuario não existe
+  payload:
+    email: 1011@gmail.com
+    password: 123qwe
+  code: 401
+  error: Unauthorized
+- title: campo email vazio
+  payload:
+    email: ''
+    password: 123qwe
+  code: 412
+  error: required email
+- title: faltando campo email
+  payload:
+    password: 123qwe
+  code: 412
+  error: required email
+- title: campo senha vazio
+  payload:
+    email: tcm1@gmail.com
+    password: ''
+  code: 412
+  error: required password
+- title: faltando campo senha
+  payload:
+    email: tcm1@gmail.com
+  code: 412
+  error: required password
