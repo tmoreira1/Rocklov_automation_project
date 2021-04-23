@@ -10,6 +10,7 @@ Automation project Web and Api of the site Rock Love, Rock Love is a site for th
 Here are the technologies used in this project.
  
 * Ruby version  2.3.6 
+* Gherkin 5.3
  
 ## Services Used
  
@@ -54,7 +55,7 @@ Here are the technologies used in this project.
 ## Links
  
   - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
+  - Repository: https://github.com/tmoreira1/Rocklov_automation_project
     - In case of sensitive bugs like security vulnerabilities, please contact
       YOUR EMAIL directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
@@ -62,12 +63,12 @@ Here are the technologies used in this project.
  
 ## Versioning
  
-1.0.0.0
+1.1.0.0
  
  
 ## Authors
  
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+* **Thiago Moreira**: @tmoreira1 (https://github.com/tmoreira1)
  
  
 Please follow github and join us!
