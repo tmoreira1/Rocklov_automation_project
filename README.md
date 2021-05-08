@@ -33,10 +33,8 @@ Here are the technologies used in this project.
  
 * To install gems:
 >    $ bundle install
-* To create the bank and do as migrations:
->    $ rake db:create db:migrate db:seed
 * To run the project:
->    $ rails s
+>    $ cucumber
  
 ## How to use
 
@@ -45,10 +43,6 @@ Here are the technologies used in this project.
 ![equipment registration screen](https://github.com/tmoreira1/Rocklov_automation_project/blob/b8c773deffc4374198c1a031f2da1d5a9b7d701f/README_IMG/cap_1.png)
 
  
- 
-## Features
- 
-  - Here will be the features.
  
  
 ## Links
